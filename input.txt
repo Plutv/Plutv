@@ -3,7 +3,7 @@ k_find_pre_active: '16 k_find_pre_active', // 表格查找前一个
 k_find_next: '16 k_find_next', // 表格查找替换后一个
 k_search: '16 k_search', // 搜索小图标
 k_sheet_filter: '16 k_sheet_filter 1', // 筛选
-k_copy_as_image: '16 k_copy_as_image', // 复制为图片22222222
+k_copy_as_image: '16 k_copy_as_image', // 复制为图片
 k_sheet_filter_auto: '16 k_sheet_filter_auto', // 筛选筛选
 k_sheet_re_application: '16 k_sheet_re_application', // 重新应用
 k_sheet_show_all: '16 k_sheet_show_all', // 全部显示
