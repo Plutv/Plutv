@@ -1,0 +1,168 @@
+k_find_pre: '16 k_find_pre', // 表格查找前一个
+k_find_pre_active: '16 k_find_pre_active', // 表格查找前一个
+k_find_next: '16 k_find_next', // 表格查找替换后一个
+k_search: '16 k_search', // 搜索小图标
+k_sheet_filter: '16 k_sheet_filter 1', // 筛选
+k_copy_as_image: '16 k_copy_as_image', // 复制为图片
+k_sheet_filter_auto: '16 k_sheet_filter_auto', // 筛选筛选
+k_sheet_re_application: '16 k_sheet_re_application', // 重新应用
+k_sheet_show_all: '16 k_sheet_show_all', // 全部显示
+k_sheet_sort_ascending: '16 k_sheet_sort_ascending', // 排序
+k_sheet_sort_descending: '16 k_sheet_sort_descending', // 表格排序下拉选项：降序
+k_sheet_sort_custom: '16 k_sheet_sort_custom', // 表格排序下拉选项：自定义
+k_sheet_number_text: '16 k_sheet_number_text', // 文本
+k_sheet_number_accountant: '16 k_sheet_number_accountant', // 会计数字格式
+k_sheet_number_fraction: '16 k_sheet_number_fraction', // 分数
+k_sheet_number_long_date: '16 k_sheet_number_long_date', // 长日期
+k_sheet_number_number: '16 k_sheet_number_number', // 数值
+k_sheet_number_routine: '16 k_sheet_number_routine', // 常规
+k_sheet_number_scientific_counting: '16 k_sheet_number_scientific_counting', // 科学计数
+k_sheet_number_short_date: '16 k_sheet_number_short_date', // 短日期
+k_sheet_number_time: '16 k_sheet_number_time', // 时间
+k_sheet_number_currency_symbol: '16 k_sheet_number_currency_symbol', // 货币符号
+k_sheet_number_percent: '16 k_sheet_number_percent', // 百分比样式
+k_sheet_number_thousands: '16 k_sheet_number_thousands', // 千位分隔样式
+k_sheet_number_custom: '16 k_sheet_number_custom', // 自定义
+ksheet_sheet_comment: '16 ksheet_sheet_comment 1', // 表格评论icon
+k_sheet_db_add: '16 k_sheet_db_add', // 灰色 添加
+k_sheet_sheet_protect: '16 k_sheet_sheet_protect 1', // 灰色保护图标
+k_sheet_insert_comment: '16 k_sheet_insert_comment 1', // 评论
+k_sheet_insert_draw: '16 k_sheet_insert_draw 1', // 绘图
+k_sheet_insert_sign: '16 k_sheet_insert_sign 1', // 签名
+k_sheet_sheet_merge: '16 k_sheet_sheet_merge 1', // 灰色合并表格图标
+k_sheet_select_active: '16 k_sheet_select_active 1', // 蓝色下拉框勾选
+k_sheet_insert_pivot: '16 k_sheet_insert_pivot 1', // 数据透视表
+k_sheet_insert_cell: '16 k_sheet_insert_cell 1', // 单元格
+k_sheet_insert_row_col: '16 k_sheet_insert_row_col 1', // 行列
+k_sheet_insert_checkbox: '16 k_sheet_insert_checkbox 1', // 复选框
+k_sheet_insert_picture: '16 k_sheet_insert_picture 1', // 图片
+k_sheet_insert_dropdown: '16 k_sheet_insert_dropdown 1', // 下拉列表
+k_sheet_insert_histogram: '16 k_sheet_insert_histogram 1', // 柱状图
+k_sheet_insert_line_chart: '16 k_sheet_insert_line_chart 1', // 折线图
+k_sheet_insert_hyperlink: '16 k_sheet_insert_hyperlink 1', // 超链接
+k_sheet_insert_pie_chart: '16 k_sheet_insert_pie_chart 1', // 饼图
+k_sheet_insert_bar_chart: '16 k_sheet_insert_bar_chart 1', // 条形图
+k_sheet_insert_combo_chart: '16 k_sheet_insert_combo_chart 1', // 组合图
+k_insert_add_col_left: '16 k_insert_add_col_left 1', // 左侧增加列
+k_insert_add_row_down: '16 k_insert_add_row_down 1', // 下方增加行
+k_insert_add_col_right: '16 k_insert_add_col_right 1', // 右侧增加列
+k_insert_add_row_up: '16 k_insert_add_row_up 1', //  上方增加行
+k_insert_best_col_width: '16 k_insert_best_col_width 1', // 最合适的列宽
+k_insert_best_lineheight: '16 k_insert_best_lineheight 1', // 最合适的行高
+k_insert_col_width: '16 k_insert_col_width 1', // 列宽
+k_insert_del_col: '16 k_insert_del_col 1', // 删除列
+k_insert_del_row: '16 k_insert_del_row 1', // 删除行
+k_insert_lineheight: '16 k_insert_lineheight 1', // 行高
+k_insert_move_down: '16 k_insert_move_down 1', // 单元格下移
+k_insert_move_left: '16 k_insert_move_left 1', // 单元格左移
+k_insert_move_right: '16 k_insert_move_right 1', // 单元格右移
+k_insert_move_up: '16 k_insert_move_up 1', // 单元格上移
+k_data_autofill: '16 k_data_autofill 1', // 自动填充
+k_data_div_col: '16 k_data_div_col 1', // 分列
+k_data_div_group: '16 k_data_div_group 1', // 分组
+k_data_duplicate_del: '16 k_data_duplicate_del 1', // 删除重复项
+k_data_duplicate_highlight: '16 k_data_duplicate_highlight 1', // 高亮重复项
+k_data_duplicate: '16 k_data_duplicate 1',  // 重复项
+k_data_format: '16 k_data_format 1', // 格式化
+k_data_import: '16 k_data_import 1', // 导入数据
+k_data_merge: '16 k_data_merge 1', // 合并数据
+k_data_text_2_number: '16 k_data_text_2_number 1', // 文本转数值
+k_data_validation: '16 k_data_validation 1', // 数据有效性
+k_insert_standard_col_width: '16 k_insert_standard_col_width 1', // 标准列宽
+k_pic_cell_image: '16 k_pic_cell_image 1', // 单元格图标片
+k_pic_float_pic: '16 k_pic_float_pic 1', // 浮动图片
+k_draw_mind_mapping: '16 k_draw_mind_mapping 1', // 思维导图
+k_draw_process: '16 k_draw_process 1', // 流程图
+k_pic_img_2_px: '16 k_pic_img_2_px 1', // 图片像素化
+k_sheet_insert_radar_chart: '16 k_sheet_insert_radar_chart 1', // 雷达图
+k_sheet_insert_area_chart: '16 k_sheet_insert_area_chart 1', // 面积图
+k_sheet_insert_scatter: '16 k_sheet_insert_scatter 1', // 散点图
+k_sheet_insert_stock_chart: '16 k_sheet_insert_stock_chart 1', // 股价图
+k_sheet_insert_symbol: '16 k_sheet_insert_symbol 1', // 符号
+k_sheet_filter_color_checked: '16 k_sheet_filter_color_checked 1', // 筛选面板颜色面板选中
+ksheet_db_view_fold: '16 ksheet_db_view_fold 1', //视图展开
+ksheet_db_view_unfold: '16 ksheet_db_view_unfold 1', //视图收起
+k_cancel_hyperlink: '16 k_cancel_hyperlink', // 取消超链接
+k_type_hyperlink: '16 k_type_hyperlink', // 类型超链接
+k_type_hyperlink_cell: '16 k_type_hyperlink_cell', // 类型超链接-单元格
+k_copy_hyperlink: '16 k_copy_hyperlink', // 类型超链接
+k_edit_hyperlink: '16 k_edit_hyperlink', // 类型超链接
+k_func_common: '16 k_func_common', // 函数-常用
+k_func: '16 func 1', // 函数
+k_func_books_data: '16 k_func_books_data', // 跨book引用
+k_func_books_data_ref: '16 k_func_books_data_ref', // 跨book引用定位
+k_func_financial: '16 k_func_financial', // 函数-财务
+k_func_date_time: '16 k_func_date_time', // 函数-日期和时间
+k_func_math_trig: '16 k_func_math_trig', // 函数-数学与三角函数
+k_func_statistical: '16 k_func_statistical', // 函数-统计
+k_func_database: '16 k_func_database', // 函数-数据库
+k_func_text: '16 k_func_text', // 函数-文本
+k_func_logical: '16 k_func_logical', // 函数-逻辑
+k_func_info: '16 k_func_info', // 函数-信息
+k_new_validation_list: '16 k_new_validation_list', // 新增合法性下拉列表
+k_new_validation_list_drag: '16 k_new_validation_list_drag', // 新增合法性下拉列表拖动
+k_new_validation_list_delete: '16 k_new_validation_list_delete', // 新增合法性下拉列表删除一个项
+k_func_engineering: '16 k_func_engineering', // 函数-工程
+k_func_lookup_ref: '16 k_func_lookup_ref', // 函数-查找与引用
+k_unfilled_color: '16 k_unfilled_color', // 无选中颜色
+k_calculate: '16 k_calculate', // 表格-计算选项
+k_name_toolbar: '16 k_name_toolbar', // 名称工具栏上的入口
+k_recalculate: '16 k_recalculate', // 表格-重新计算
+k_network_normal: '16 k_network_normal 1', // 网络状态：正常
+k_network_slow: '16 k_network_slow 1', // 网络状态：延迟
+k_network_disconnect: '16 k_network_disconnect 1', // 网络状态：联网中
+k_network_offline: '16 k_network_offline 1', // 网络状态：断网
+k_calculate_finish_status: '16 k_calculate_finish_status', // 计算完成状态
+k_exit_full_screen: '16 k_exit_full_screen', // 退出全屏
+k_full_screen: '16 k_full_screen 1', // 进入全屏
+k_minus: '16 k_minus 1', // 减号
+k_add: '16 k_add 1', // 加号
+k_new_sheet_add: '16 k_new_sheet_add 1', // 新建sheet的加号
+k_merge_select: '16 k_merge_select', // 选择文件
+k_merge_new: '16 k_merge_new', // 合并文件错误信息
+k_merge_modify: '16 k_merge_modify', // 合并文件错误信息
+k_merge_info: '16 k_merge_info', // 合并感叹号
+k_arrow_expanding: '16 k_arrow_expanding', // 展开箭头
+k_arrow_collapse: '16 k_arrow_collapse', // 折叠箭头
+k_arrow_left: '16 k_arrow_left', // 左向箭头
+et_arrow_left: '16 et_arrow_left', // 左向箭头
+et_arrow_right: '16 et_arrow_right', // 右向箭头
+k_arrow_right: '16 k_arrow_right', // 右向箭头
+k_merge_last_stamp: '16 k_merge_last_stamp', // 上次合并
+k_merge_delete: '16 k_merge_delete',
+k_border_empty: '16 k_border_empty', // 无框线
+k_border_all: '16 k_border_all 1', // 所有框线
+k_border_external: '16 k_border_external', // 外侧框线
+k_border_bold: '16 k_border_bold', // 粗匣框线
+k_border_bottom: '16 k_border_bottom', // 下框线
+k_border_top: '16 k_border_top', // 上框线
+k_border_left: '16 k_border_left', // 左框线
+k_border_right: '16 k_border_right', // 右框线
+k_border_color: '16 k_border_color', // 边框颜色，边框下拉框面板中的图标
+k_more_color: '16 k_more_color', // 筛选-其他颜色
+ksheet_db_card_style: '16 ksheet_db_card_style 1', // 卡片样式
+ksheet_db_gantt_setting: '16 ksheet_db_gantt_setting 1', // 甘特图设置
+ksheet_db_query_setting: '16 ksheet_db_query_setting 1', // 甘特图设置
+ksheet_db_arrow_down_fill: '16 ksheet_db_arrow_down_fill 1', // 实心箭头向下
+ksheet_db_arrow_up_fill: '16 ksheet_db_arrow_up_fill 1', // 实心箭头向上
+ksheet_db_down: '16 ksheet_db_down 1', // 无透明度实心箭头向下
+ksheet_delete: '16 ksheet_delete',
+k_func_1: '16 k_func', // 函数编辑栏
+k_func_formula: '16 k_func_formula', // 函数编辑栏定位
+k_clean_input: '16 k_clean_input', // 函数面板-清楚input
+k_cell_origin_image: '16 k_cell_origin_image', // 查看大图
+k_insert_as_new_row: '16 k_insert_as_new_row', // 插入为新行
+k_insert_as_new_col: '16 k_insert_as_new_col', // 插入为新列
+k_expand_merge_cell: '16 k_expand_merge_cell', // 扩充合并单元格
+k_insert_cell_picture_local: '16 k_insert_cell_picture_local', // 插入图片-本地
+k_insert_cell_picture_cloud: '16 k_insert_cell_picture_cloud', // 插入图片-云图片
+k_name_del: '16 k_name_del', // 名称管理-删除
+k_name_edit: '16 k_name_edit', // 名称管理-编辑
+k_notice: '16 k_notice', // 公告
+k_font_bold: '16 k_font_bold', //公告工具栏-加粗
+k_sheet_app: '16 k_sheet_app', // sheet栏app图标
+k_plugin_center_icon: '16 k_plugin_center_icon', // 插件中心-扩展插件
+k_comment_keyboard: '16 k_comment_keyboard', // 评论-键盘
+k_comment_voice_black: '16 k_comment_voice_black', // 评论-录音
+k_comment_at_btn: '16 k_comment_at_btn', // 评论-at人
+k_air_script: '16 k_air_script', // aisScript脚本

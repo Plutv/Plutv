@@ -1,0 +1,65 @@
+ksheet_dbsheet: '16 ksheet_dbsheet',
+        ksheet_db_field_manage: '16 ksheet_db_field_manage', // 字段管理
+        ksheet_db_filter: '16 ksheet_db_filter', // 过滤
+        ksheet_db_generate_form: '16 ksheet_db_generate_form', // 生成表单
+        ksheet_db_group: '16 ksheet_db_group', // 分组
+        ksheet_db_group_collapse: '16 ksheet_db_group_collapse', // 折叠所有
+        ksheet_db_group_expand: '16 ksheet_db_group_expand', // 展开所有
+        ksheet_db_row_height: '16 ksheet_db_row_height', // 行高
+        ksheet_db_search: '16 ksheet_db_search', // 查找
+        ksheet_db_sort_ascending: '16 ksheet_db_sort_ascending', // 排序
+        ksheet_db_view_share: '16 ksheet_db_view_share', // 分享
+        k_sheet_db_fav_default: '16 k_sheet_db_fav_default 1',
+        k_sheet_db_fav: '16 k_sheet_db_fav 1',
+        k_sheet_db_view_more: '16 k_sheet_db_view_more 1',
+        ksheet_db_undo: '16 ksheet_db_undo 1',
+        ksheet_db_redo: '16 ksheet_db_redo 1',
+        k_sheet_more_horiz: '16 k_sheet_more_horiz 1', // 横向的竖点菜单
+        k_sheet_font_bold: '16 k_sheet_font_bold 1', // 加粗
+        k_sheet_align_left: '16 k_sheet_align_left 1', // 左对齐
+        k_sheet_align_horiz: '16 k_sheet_align_horiz 1', // 居中对齐
+        k_sheet_align_right: '16 k_sheet_align_right 1', // 右对齐
+        k_sheet_align_both: '16 k_sheet_align_both',
+        k_sheet_align_decentralized: '16 k_sheet_align_decentralized',
+        k_sheet_align_fill: '16 k_sheet_align_fill',
+        k_sheet_align_cas: '16 k_sheet_align_cas',
+        k_sheet_format_painter: '16 k_sheet_format_painter 1', // 格式刷
+        k_sheet_font_italic: '16 k_sheet_font_italic 1', // 斜体
+        k_sheet_font_underline: '16 k_sheet_font_underline 1', // 下划线
+        k_sheet_font_del_line: '16 k_sheet_font_del_line 1', // 删除线
+        k_sheet_range_selector: '16 k_sheet_range_selector', // 表格的选区组件图标
+        k_sheet_find: '16 k_sheet_find 1', // 查找
+        k_sheet_align_vertical: '16 k_sheet_align_vertical 1', // 垂直居中
+        k_sheet_clear_formats: '16 k_sheet_clear_formats 1', // 清除格式
+        k_sheet_font_size_add: '16 k_sheet_font_size_add 1', // 增加字号
+        k_sheet_font_size_minus: '16 k_sheet_font_size_minus 1', // 减小字号
+        k_sheet_table_style: '16 k_sheet_table_style 1', // 表格样式
+        k_sheet_merge_center: '16 k_sheet_merge_center 1', // 合并居中
+        k_close: '16 k_close 1', // 关闭按钮
+        k_sort_option: '16 k_sort_option', // 表格自定义排序 更多
+        k_undo: '16 k_undo 1', // 撤销
+        k_redo: '16 k_redo 1', // 恢复
+        k_new_sheet_normal: '16 k_new_sheet_normal', // 新建sheet-菜单-普通sheet
+        k_new_sheet_dbsheet: '16 k_new_sheet_dbsheet', // 新建sheet-菜单-dbsheet
+        k_new_sheet_dbsheet_black: '16 k_new_sheet_dbsheet_black', // 新建sheet-菜单-dbsheet
+        k_new_sheet_dashboard: '16 k_new_sheet_dashboard', // 新建sheet-菜单-Dashboard
+        k_new_sheet_from_import: '16 k_new_sheet_from_import', // 从文件导入
+        k_new_sheet_from_template: '16 k_new_sheet_from_template', // 从模板新建
+        k_fill_color: '16 k_fill_color 1', // 填充颜色
+        k_align_top: '16 k_align_top', // 顶端对齐
+        k_align_bottom: '16 k_align_bottom', // 底部对齐
+        k_bulb: '16 k_bulb', // 黄色的灯泡
+        k_comment_more_active: '16 k_comment_more_active', // sheet更多评论
+        k_merge_row: '16 k_merge_row', // 按行合并
+        k_merge_content: '16 k_merge_content', // 合并内容
+        k_merge_same_cell: '16 k_merge_same_cell', // 合并相同单元格
+        k_merge_cancel_cell: '16 k_merge_cancel_cell', // 取消合并单元格
+        k_sheet_auto_wrap: '16 k_sheet_auto_wrap 1', // 自动换行
+        k_number_digits_add: '16 k_number_digits_add 1', // 增加小数位数
+        k_number_digits_minus: '16 k_number_digits_minus 1', // 减小小数位数
+        k_sheet_sum_sum: '16 k_sheet_sum_sum 1', // 求和
+        k_sheet_sum_avg: '16 k_sheet_sum_avg', // 表格自动求和下拉选项：平均值
+        k_sheet_sum_count: '16 k_sheet_sum_count', // 表格自动求和下拉选项：计数
+        k_sheet_sum_max: '16 k_sheet_sum_max', // 表格自动求和下拉选项：最大值
+        k_sheet_sum_min: '16 k_sheet_sum_min', // 表格自动求和下拉选项：最小值
+        k_print: '16 k_print 1', // 打印
